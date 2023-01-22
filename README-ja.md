@@ -25,7 +25,7 @@ GitHub Pages を使えば、プロジェクトのブログ、ドキュメント�
 - **誰のため？**: 初心者、学生、プロジェクト管理者、小規模事業者
 - **学べること**: GitHub Pagesサイトの作り方
 - **何を作るか**: ブログ付きの簡単なGitHub Pagesサイトを構築します。静的サイトジェネレータである[Jekyll](https://jekyllrb.com)を使用します。
-- **前提知識**: ブランチ、コミット、プルリクエストについて学ぶ必要がある場合は、まず【GitHub入門】(https://github.com/skills/introduction-to-github)で学習してください。
+- **前提知識**: ブランチ、コミット、プルリクエストについて学ぶ必要がある場合は、まずは【GitHub入門】(https://github.com/skills/introduction-to-github) で学習してください。
 - **期間**: このコースは5つのステップからなり、1時間以内で完了します。
 
 ## コース開始までの流れ
